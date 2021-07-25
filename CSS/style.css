@@ -1,0 +1,674 @@
+.one{
+    color: rgba(33, 61, 61, 0.5);
+}
+.one-a{
+    color: blueviolet;
+    transform-style: flat;
+    text-transform: capitalize;
+    background-color: rgb(229, 221, 186);
+}
+.one-b{
+    color: blueviolet;
+    transform-style: flat;
+    text-transform: capitalize;
+    background-color: rgb(229, 221, 186);
+}
+.one-c{
+    color: blueviolet;
+    transform-style: flat;
+    text-transform: capitalize;
+    background-color: rgb(229, 221, 186);
+}
+.one-d{
+    color: blueviolet;
+    transform-style: flat;
+    text-transform: capitalize;
+    background-color: rgb(229, 221, 186);
+
+}
+    .two-a{
+        color: rgba(66, 16, 26, 0.603);
+       
+          }
+    .two-b{
+        color: rgba(0, 139, 139, 0.548);
+        
+    }
+    .two-c{
+        color: darkmagenta;
+        
+    }
+    .two-d{
+        color: rgba(85, 107, 47, 0.644);
+        
+    }
+    .two-e{
+        color: rgba(47, 79, 79, 0.658);
+        
+    }
+    .two-f{
+        color: rgba(34, 139, 34, 0.295);
+        
+    }
+    .two-g{
+        color: rgb(107, 3, 107);
+        
+    }
+    .two-h{
+        color: rgba(59, 4, 4, 0.555);
+        
+    }
+    .two-i{
+        color: rgba(255, 0, 76, 0.616);
+        
+    }
+    .three-a{
+        color: rgba(0, 128, 0, 0.205);
+        background-color: rgb(184, 196, 184);
+    }
+    .three-b{
+        color: rgba(76, 0, 130, 0.541);
+        background-color: rgb(184, 196, 184);
+    }
+    .three-c{
+        color: rgba(240, 128, 128, 0.486);
+        background-color: rgb(184, 196, 184);
+    }
+    .three-d{
+        color: rgb(8, 36, 65);
+        background-color: rgb(184, 196, 184);
+        text-transform: capitalize;
+        font-style: italic;
+    }
+    .four-a{
+        color: mediumblue;
+        background-color: rgba(255, 228, 225, 0.719);
+    }
+    .four-b{
+        color: rgba(218, 112, 214, 0.664);
+        background-color: rgba(255, 228, 225, 0.719);
+    }
+    .four-c{
+        color: rgba(128, 0, 128, 0.644);
+        background-color: rgba(255, 228, 225, 0.719);
+    }
+    .four-d{
+        background-color: rgba(255, 228, 225, 0.719);
+    }
+    .five-a{
+        background-color: cornsilk;
+    }
+    .five-b{
+        color: rgba(0, 0, 255, 0.24);
+        background-color: cornsilk;
+    }
+    .five-c{
+        color: blueviolet;
+        background-color: cornsilk;
+    }
+    .five-d{
+        color: brown;
+        background-color: cornsilk;
+        font-size: 30px;
+    }
+    .five-e{
+        color: rgba(100, 148, 237, 0.61);
+        background-color: cornsilk;
+        font-size: 30px;
+    }
+    .six-a{
+        background-color: darkgray;
+    }
+    .six-b{
+        color: rgba(139, 0, 139, 0.308);
+        background-color: darkgray;
+        text-transform: capitalize;
+    }
+    .six-c{
+        color: rgba(85, 107, 47, 0.61);
+        background-color: darkgray;
+    }
+    .six-d{
+        color: rgba(47, 79, 79, 0.527);
+        background-color: darkgray;
+        font-size: 20px;
+    }
+    .seven-a{
+background-color: floralwhite;
+    }
+    .seven-b{
+        background-color: floralwhite;
+        color: forestgreen;
+        text-transform: capitalize;
+    }
+    .seven-c{
+        background-color: floralwhite;
+        color: rgba(255, 0, 255, 0.534);
+        font-size: 20px;
+        font-style: initial;
+    }
+    .seven-d{
+        background-color: floralwhite;
+        color: rgba(240, 128, 128, 0.582);
+        font-size: 20px;
+    }
+    .eight-a{
+        background-color: lightcyan;
+    }
+    .eight-b{
+        background-color: lightcyan;
+        color: rgb(10, 68, 126);
+    }
+    .eight-c{
+        background-color: lightcyan;
+        color: rgba(128, 0, 0, 0.678);
+    }
+    .eight-d{
+        background-color: lightcyan;
+        color: rgb(69, 10, 83);
+    }
+    .nine-a{
+      background-color: rgb(184, 196, 184);
+    }
+    .nine-b{
+        background-color: rgb(184, 196, 184); 
+        color: midnightblue;
+        text-transform: capitalize;
+    }
+    .nine-c{
+        background-color: rgb(184, 196, 184);
+        color: rgba(0, 0, 0, 0.493);
+    }
+    .mine-d{
+        background-color: rgb(184, 196, 184);
+        color: rgba(0, 0, 128, 0.377);
+    }
+    .nine-e{
+        background-color: rgb(184, 196, 184);
+        color: rgba(106, 142, 35, 0.466);
+    }
+    .nine-f{
+        background-color: rgb(184, 196, 184);
+        color: rgba(255, 68, 0, 0.63);
+    }
+    .nine-g{
+        background-color: rgb(184, 196, 184);
+        color: rgb(85, 7, 85);
+    }
+    .ten-a{
+      background-color: azure;  
+    }
+    .ten-b{
+        background-color: azure;
+        color: black;
+        text-transform: capitalize;
+    }
+    .ten-c{
+        background-color: azure;
+        color: rgb(47, 6, 87);
+        font-size: 20px;
+    }
+    .ten-d{
+        background-color: azure;
+        color: rgb(44, 22, 6);
+    }
+    .eleven-a{
+        background-color: rgb(137, 153, 153);
+    }
+    .eleven-b{
+        background-color: rgb(137, 153, 153);
+        color: rgb(43, 3, 43);
+    }
+    .eleven-c{
+        background-color: rgb(137, 153, 153);
+        color: darkolivegreen;
+    }
+    .eleven-d{
+        background-color: rgb(137, 153, 153);
+        color: darkslategray;
+    }
+    .twelve-a{
+        background-color: rgb(121, 147, 148);
+    }
+    .twelve-b{
+        background-color: rgb(121, 147, 148);
+        color: dimgray;
+    }
+    .twelve-c{
+        background-color: rgb(121, 147, 148);
+        color: firebrick;
+    }
+    .twelve-d{
+        background-color: rgb(121, 147, 148);
+        color: rgba(172, 255, 47, 0.473);
+    }
+    .thirteen-a{
+        background-color: honeydew;
+    }
+    .thirteen-b{
+        background-color: honeydew;
+        color: indigo;
+    }
+    .thirteen-c{
+        background-color: honeydew;
+        color: lawngreen;
+    }
+    .thirteen-d{
+        background-color: honeydew;
+        color: rgb(100, 21, 21);
+        font-size: 20px;
+        text-transform: capitalize;
+    }
+.fourteen-a{
+    background-color: lightskyblue;
+}
+.fourteen-b{
+    background-color: lightskyblue;
+    color: rgb(7, 7, 49);
+}
+.fourteen-c{
+    background-color: lightskyblue;
+    color: rgb(50, 33, 83);
+}
+.fourteen-d{
+    background-color: lightskyblue;
+    color: navy;
+    font-size: 20px;
+}
+.fifteen-a{
+    background-color: oldlace;
+}
+.fifteen-b{
+    background-color: oldlace;
+    color: olive;
+    font-size: 10px;
+}
+.fifteen-c{
+    background-color: oldlace;
+    color: orange;
+}
+.fifteen-d{
+    background-color: oldlace;
+    color: rgb(139, 58, 85);
+    font-style: inherit;
+}
+.sixteen-a{
+    background-color: khaki;
+}
+.sixteen-b{
+    background-color: khaki;
+
+}
+.sixteen-c{
+    background-color: khaki;
+}
+.sixteen-d{
+    background-color: khaki;
+}
+.seventeen-a{
+    background-color: lavender;
+}
+.seventeen-b{
+    background-color: lavender;
+}
+.seventeen-c{
+    background-color: lavender;
+}
+.seventeen-d{
+    background-color: lavender;
+}
+.eighteen-a{
+    background-color: lightgreen;
+}
+.eighteen-b{
+    background-color: lightgreen;
+}
+.eighteen-c{
+    background-color: lightgreen;
+}
+.eighteen-d{
+    background-color: lightgreen;
+}
+.nineteen-a{
+    background-color: aquamarine;
+}
+.nineteen-b{
+    background-color: aquamarine;
+    color: rgb(35, 66, 3);
+}
+.nineteen-c{
+    background-color: aquamarine;
+    color: darkblue;
+}
+.nineteen-d{
+    background-color: aquamarine;
+}
+.twenty-a{
+    background-color: rgb(156, 115, 65);
+}
+.twenty-b{
+    background-color: rgb(156, 115, 65);
+    color: rgba(153, 50, 204, 0.582);
+}
+.twenty-c{
+    background-color: rgb(156, 115, 65);
+    color: rgb(27, 15, 107);
+}
+.twenty-d{
+    background-color: rgb(156, 115, 65);
+}
+.twenty-one{
+    background-color: dimgrey;
+}
+.twenty-two{
+    background-color: dimgrey;
+}
+.twenty-three{
+    background-color: dimgrey;
+}
+.twenty-four{
+    background-color: dimgrey;
+}
+.thirty-a{
+    background-color: rgb(170, 153, 153);
+}
+.thirty-b{
+    background-color: rgb(170, 153, 153);
+}
+.thirty-c{
+    background-color: rgb(170, 153, 153);
+    color: green;
+    font-size: 20px;
+}
+.thirty-d{
+    background-color: rgb(170, 153, 153);
+}
+.thirty-d{
+    background-color: rgb(170, 153, 153);
+}
+.thirty-e{
+    background-color: rgb(170, 153, 153);
+}
+.thirty-f{
+    background-color: rgb(170, 153, 153);
+    color: rgba(76, 0, 130, 0.521);
+    font-style: initial;
+    font-size: 25px;
+}
+.fourty-a{
+    background-color: lemonchiffon;
+}
+.fourty-b{
+    background-color: lemonchiffon;
+}
+.fourty-c{
+    background-color: lemonchiffon;
+}
+.fourty-d{
+    background-color: lemonchiffon;
+}
+.fifty-a{
+    background-color: lightpink;
+}
+.fifty-b{
+    background-color: lightpink;
+}
+.fifty-c{
+    background-color: lightpink;
+}
+.fifty-d{
+    background-color: lightpink;
+}
+.sixty-a{
+    background-color: lightskyblue;
+}
+.sixty-b{
+    background-color: lightskyblue;
+}
+.sixty-c{
+    background-color: lightskyblue;
+}
+.sixty-d{
+    background-color: lightskyblue;
+}
+.seventy-a{
+    background-color: lime;
+}
+.seventy-b{
+    background-color: lime;
+}
+.seventy-c{
+    background-color: lime;
+}
+.seventy-d{
+    background-color: lime;
+}
+.eighty-a{
+    background-color: mediumpurple;
+}
+.eighty-b{
+    background-color: mediumpurple;
+}
+.eighty-c{
+    background-color: mediumpurple;
+}
+.eighty-d{
+    background-color: mediumpurple;
+}
+.ninety-a{
+    background-color: navajowhite;
+}
+.ninety-b{
+    background-color: navajowhite;
+}
+.ninety-c{
+    background-color: navajowhite;
+}
+.ninety-d{
+    background-color: navajowhite;
+}
+.hundred-a{
+    background-color: paleturquoise;
+}
+.hundred-b{
+    background-color: paleturquoise;
+}
+.hundred-c{
+    background-color: paleturquoise;
+}
+.hundred-d{
+    background-color: paleturquoise;
+}
+.hundred-one{
+    background-color: palevioletred;
+}
+.hundred-two{
+    background-color: palevioletred;
+}
+.hundred-three{
+    background-color: palevioletred;
+}
+.hundred-four{
+    background-color: palevioletred;
+}
+.abc{
+    background-color: pink;
+}
+.def{
+    background-color: pink;
+}
+.ghi{
+    background-color: pink;
+}
+.jkl{
+    background-color: pink;
+}
+.mno{
+    background-color: powderblue;
+}
+.pqr{
+    background-color: powderblue;
+}
+.stu{
+    background-color: powderblue;
+}
+.vwx{
+    background-color: powderblue;
+}
+.fourty-one{
+    background-color: rgb(137, 153, 153);
+}
+.fourty-two{
+    background-color: rgb(137, 153, 153);
+}
+.fourty-three{
+    background-color: rgb(137, 153, 153);
+}
+.fourty-four{
+    background-color: rgb(137, 153, 153);
+    font-size: 25px;
+}
+.first-a{
+    background-color: rgb(35, 66, 3);
+}
+.first-b{
+    background-color: rgb(35, 66, 3);
+}
+.first-c{
+    background-color: rgb(35, 66, 3);
+}
+.first-d{
+    background-color: rgb(35, 66, 3);
+}
+.second-a{
+    background-color: rgb(50, 33, 83);
+}
+.second-b{
+    background-color: rgb(50, 33, 83);
+}
+.second-c{
+    background-color: rgb(50, 33, 83);
+}
+.second-d{
+    background-color: rgb(50, 33, 83);
+}
+.third-a{
+    background-color: rgba(59, 139, 139, 0.548);
+}
+.third-b{
+    background-color: rgba(59, 139, 139, 0.548);
+}
+.third-c{
+    background-color: rgba(59, 139, 139, 0.548);
+}
+.third-d{
+    background-color: rgba(59, 139, 139, 0.548);
+}
+.fourth-a{
+    background-color: rgba(88, 117, 45, 0.473);
+}
+.fourth-b{
+    background-color: rgba(88, 117, 45, 0.473);
+}
+.fourth-c{
+    background-color: rgba(88, 117, 45, 0.473);
+}
+.fourth-d{
+    background-color: rgba(88, 117, 45, 0.473);
+}
+.fifth-a{
+    background-color: rgba(240, 128, 128, 0.582);
+}
+.fifth-b{
+    background-color: rgba(240, 128, 128, 0.582);
+}
+.fifth-c{
+    background-color: rgba(240, 128, 128, 0.582);
+}
+.fifth-d{
+    background-color: rgba(240, 128, 128, 0.582);
+}
+.sixth-a{
+    background-color: rgba(145, 127, 125, 0.719);
+}
+.sixth-b{
+    background-color: rgba(145, 127, 125, 0.719);
+}
+.sixth-c{
+    background-color: rgba(145, 127, 125, 0.719);
+}
+.sixth-d{
+    background-color: rgba(145, 127, 125, 0.719);
+}
+.seventh-a{
+    background-color: rgba(59, 139, 139, 0.548);
+}
+.seventh-b{
+    background-color: rgba(59, 139, 139, 0.548);
+}
+.seventh-c{
+    background-color: rgba(59, 139, 139, 0.548);
+}
+.seventh-d{
+    background-color: rgba(59, 139, 139, 0.548);
+}
+.eighth-a{
+    background-color: salmon;
+}
+.eighth-b{
+    background-color: salmon;
+}
+.eighth-c{
+    background-color: salmon;
+}
+.eighth-d{
+    background-color: salmon;
+}
+.ninth-a{
+    background-color: seagreen;
+}
+.ninth-b{
+    background-color: seagreen;
+}
+.ninth-c{
+    background-color: seagreen;
+}
+.ninth-d{
+    background-color: seagreen;
+}
+.tenth-a{
+    background-color: tan;
+}
+.tenth-b{
+    background-color: tan;
+}
+.tenth-c{
+    background-color: tan;
+}
+.tenth-d{
+    background-color: tan;
+}
+.saima-a{
+   background-color: tomato;
+}
+.saima-b{
+    background-color: tomato;
+}
+.saima-c{
+    background-color: tomato;
+}
+.saima-d{
+    background-color: tomato;
+}
+.shawon-a{
+    background-color: turquoise;
+}
+.shawon-b{
+    background-color: turquoise;
+}
+.shawon-c{
+    background-color: turquoise;
+}
+.shawon-d{
+    background-color: turquoise;
+}
